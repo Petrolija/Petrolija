@@ -7,13 +7,13 @@ I believe the best way to solve a problem is to encounter it firsthand and resol
 I have experience working with HTML, C++, and C, which has given me a strong foundation in both web development and lower-level programming. Additionally, I am fluent in English and possess advanced language skills, allowing me to communicate effectively in international projects.
 
 ### Skills: 
--HTML, C++, C programming
--Programming logic and fundamentals
--Problem-solving and analytical thinking
--Team collaboration
--Solo project development
--Advanced English (fluent speaker)
--Rapid learning and adaptation
--Self-driven problem-solving
+- HTML, C++, C programming
+- Programming logic and fundamentals
+- Problem-solving and analytical thinking
+- Team collaboration
+- Solo project development
+- Advanced English (fluent speaker)
+- Rapid learning and adaptation
+- Self-driven problem-solving
 
 I'm always looking to expand my knowledge and improve my skills, especially in game development and related technologies. 
